@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167935050380",
+    "project_id": "anasapp-eaba4",
+    "storage_bucket": "anasapp-eaba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167935050380:android:1e72699b4a9d0dbdc171a9",
+        "android_client_info": {
+          "package_name": "com.example.cripto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0damJ1W5Df2PxWhd9hOL-lldO9fHuLno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
